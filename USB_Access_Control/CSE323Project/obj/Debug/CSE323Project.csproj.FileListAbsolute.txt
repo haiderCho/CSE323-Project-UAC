@@ -1,0 +1,47 @@
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.Properties.Resources.resources
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.csproj.GenerateResource.Cache
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.csproj.CoreCompileInputs.cache
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\bin\Debug\CSE323Project.exe.config
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\bin\Debug\CSE323Project.exe
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\bin\Debug\CSE323Project.pdb
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.exe
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.pdb
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.csprojResolveAssemblyReference.cache
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.csproj.ResolveComReference.cache
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.Admin.resources
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\obj\Debug\CSE323Project.formMain.resources
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdu\Desktop\CSE323ProjectWork\CSE323Project\CSE323Project\bin\Debug\Newtonsoft.Json.xml
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\bin\Debug\CSE323Project.exe.config
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\bin\Debug\CSE323Project.exe
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\bin\Debug\CSE323Project.pdb
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\bin\Debug\Newtonsoft.Json.dll
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\bin\Debug\Newtonsoft.Json.xml
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\obj\Debug\CSE323Project.csproj.AssemblyReference.cache
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\obj\Debug\Interop.WMPLib.dll
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\obj\Debug\CSE323Project.csproj.ResolveComReference.cache
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\obj\Debug\CSE323Project.Admin.resources
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\obj\Debug\CSE323Project.formMain.resources
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\obj\Debug\CSE323Project.Properties.Resources.resources
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\obj\Debug\CSE323Project.csproj.GenerateResource.cache
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\obj\Debug\CSE323Project.csproj.CoreCompileInputs.cache
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\obj\Debug\CSE323Pr.53BC7DF2.Up2Date
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\obj\Debug\CSE323Project.exe
+D:\NSU\CSE323 - Project\USB_Access_Control-master\CSE323Project\CSE323Project\obj\Debug\CSE323Project.pdb
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\bin\Debug\CSE323Project.exe.config
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\bin\Debug\CSE323Project.exe
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\bin\Debug\CSE323Project.pdb
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\bin\Debug\Newtonsoft.Json.dll
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\bin\Debug\Newtonsoft.Json.xml
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\obj\Debug\CSE323Project.csproj.AssemblyReference.cache
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\obj\Debug\Interop.WMPLib.dll
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\obj\Debug\CSE323Project.csproj.ResolveComReference.cache
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\obj\Debug\CSE323Project.Admin.resources
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\obj\Debug\CSE323Project.formMain.resources
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\obj\Debug\CSE323Project.Properties.Resources.resources
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\obj\Debug\CSE323Project.csproj.GenerateResource.cache
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\obj\Debug\CSE323Project.csproj.CoreCompileInputs.cache
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\obj\Debug\CSE323Pr.53BC7DF2.Up2Date
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\obj\Debug\CSE323Project.exe
+D:\NSU\CSE323 - Project\USB_Access_Control-master\USB_Access_Control\CSE323Project\obj\Debug\CSE323Project.pdb
