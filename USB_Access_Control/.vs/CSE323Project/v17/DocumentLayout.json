@@ -1,12 +1,165 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\NSU\\CSE323 - Project\\USB_Access_Control-master\\USB_Access_Control\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|d:\\nsu\\cse323 - project\\usb_access_control\\cse323project\\usbdisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|solutionrelative:cse323project\\usbdisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|D:\\NSU\\CSE323 - Project\\USB_Access_Control\\cse323project\\wmiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|solutionrelative:cse323project\\wmiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|D:\\NSU\\CSE323 - Project\\USB_Access_Control\\cse323project\\usbdiskcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|solutionrelative:cse323project\\usbdiskcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|D:\\NSU\\CSE323 - Project\\USB_Access_Control\\cse323project\\usbstatechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|solutionrelative:cse323project\\usbstatechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|D:\\NSU\\CSE323 - Project\\USB_Access_Control\\cse323project\\usbstatechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|solutionrelative:cse323project\\usbstatechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|D:\\NSU\\CSE323 - Project\\USB_Access_Control\\cse323project\\usbserialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|solutionrelative:cse323project\\usbserialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|D:\\NSU\\CSE323 - Project\\USB_Access_Control\\cse323project\\usbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|solutionrelative:cse323project\\usbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|D:\\NSU\\CSE323 - Project\\USB_Access_Control\\cse323project\\usbeject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|solutionrelative:cse323project\\usbeject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|D:\\NSU\\CSE323 - Project\\USB_Access_Control\\cse323project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D50AFCF-2ECD-4E84-9EB1-E561C621E3A8}|CSE323Project\\CSE323Project.csproj|solutionrelative:cse323project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsbStateChangedEventArgs.cs",
+              "DocumentMoniker": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\UsbStateChangedEventArgs.cs",
+              "RelativeDocumentMoniker": "CSE323Project\\UsbStateChangedEventArgs.cs",
+              "ToolTip": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\UsbStateChangedEventArgs.cs",
+              "RelativeToolTip": "CSE323Project\\UsbStateChangedEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:34:43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WmiExtensions.cs",
+              "DocumentMoniker": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\WmiExtensions.cs",
+              "RelativeDocumentMoniker": "CSE323Project\\WmiExtensions.cs",
+              "ToolTip": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\WmiExtensions.cs",
+              "RelativeToolTip": "CSE323Project\\WmiExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:34:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsbStateChange.cs",
+              "DocumentMoniker": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\UsbStateChange.cs",
+              "RelativeDocumentMoniker": "CSE323Project\\UsbStateChange.cs",
+              "ToolTip": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\UsbStateChange.cs",
+              "RelativeToolTip": "CSE323Project\\UsbStateChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:34:41.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "USBSerialNumber.cs",
+              "DocumentMoniker": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\USBSerialNumber.cs",
+              "RelativeDocumentMoniker": "CSE323Project\\USBSerialNumber.cs",
+              "ToolTip": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\USBSerialNumber.cs",
+              "RelativeToolTip": "CSE323Project\\USBSerialNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:34:39.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsbManager.cs",
+              "DocumentMoniker": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\UsbManager.cs",
+              "RelativeDocumentMoniker": "CSE323Project\\UsbManager.cs",
+              "ToolTip": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\UsbManager.cs",
+              "RelativeToolTip": "CSE323Project\\UsbManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:34:38.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "USBEject.cs",
+              "DocumentMoniker": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\USBEject.cs",
+              "RelativeDocumentMoniker": "CSE323Project\\USBEject.cs",
+              "ToolTip": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\USBEject.cs",
+              "RelativeToolTip": "CSE323Project\\USBEject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:34:37.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsbDiskCollection.cs",
+              "DocumentMoniker": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\UsbDiskCollection.cs",
+              "RelativeDocumentMoniker": "CSE323Project\\UsbDiskCollection.cs",
+              "ToolTip": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\UsbDiskCollection.cs",
+              "RelativeToolTip": "CSE323Project\\UsbDiskCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:34:36.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsbDisk.cs",
+              "DocumentMoniker": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\UsbDisk.cs",
+              "RelativeDocumentMoniker": "CSE323Project\\UsbDisk.cs",
+              "ToolTip": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\UsbDisk.cs",
+              "RelativeToolTip": "CSE323Project\\UsbDisk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:34:35.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\Program.cs",
+              "RelativeDocumentMoniker": "CSE323Project\\Program.cs",
+              "ToolTip": "D:\\NSU\\CSE323 - Project\\USB_Access_Control\\CSE323Project\\Program.cs",
+              "RelativeToolTip": "CSE323Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:34:31.844Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
